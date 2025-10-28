@@ -1,0 +1,20 @@
+# Derleme (build) klasörleri
+bin/
+obj/
+
+# Visual Studio cache ve ayar dosyaları
+.vs/
+*.user
+*.suo
+
+# Derlenmiş dosyalar
+*.exe
+*.dll
+
+# Geçici ve log dosyaları
+*.log
+*.tmp
+
+# ReSharper veya Rider ayarları
+.idea/
+*.DotSettings
